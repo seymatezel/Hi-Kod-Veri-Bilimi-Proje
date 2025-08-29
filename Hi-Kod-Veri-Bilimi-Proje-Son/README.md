@@ -1,7 +1,7 @@
 
 # Küresel Plastik Atık Geri Dönüşümü: Ülkeler Arası Karşılaştırmalar ve Türkiye'nin Durumu
 
-## 📋 Proje Tanımı
+## Proje Tanımı
 Bu proje, 165 ülkenin plastik atık üretimi, geri dönüşüm oranları, kişi başı atık miktarları, ana atık kaynakları ve kıyı atık risk seviyeleri gibi verilerini kapsamlı bir şekilde analiz ederek küresel plastik atık geri dönüşüm eğilimlerini ortaya koymayı amaçlamaktadır. 
 
 Proje kapsamında Türkiye'nin küresel ölçekteki konumu detaylı bir şekilde incelenmiş, mevcut durumu yorumlanmış ve iyileştirme alanlarına yönelik öneriler sunulmuştur. Bu çalışma, plastik atık yönetimi konusunda farkındalık yaratmayı ve politika yapıcılar için veri odaklı içgörüler sağlamayı hedeflemektedir.
@@ -87,7 +87,7 @@ Bu çalışma, plastik atık krizi konusunda farkındalık yaratmayı ve özelli
 Bu proje, **Kodluyoruz Veri Bilimi Atölyeleri** kapsamında Mart/Nisan 2025 tarihlerinde aşağıdaki ekip üyeleri tarafından hazırlanmıştır: [Şeyma Tezel](https://github.com/seymatezel), [Büşra Hilalnur Taşkın](https://github.com/grsyadm), [Nuray Karabulut](https://www.linkedin.com/in/nuray-karabulut-48910a338/), Hatice Eren
 
 ---
-*🎓 Bu proje, Kodluyoruz Veri Bilimi Atölyesi kapsamında gerçekleştirilmiştir.*
+* Bu proje, Kodluyoruz Veri Bilimi Atölyesi kapsamında gerçekleştirilmiştir.*
 
 
 
