@@ -23,3 +23,25 @@ Hi-Kod-Veri-Bilimi-Proje-Son/
 ├── README.md                           # Project documentation
 ├── merged_dataset.csv                  # Merged intermediate dataset
 └── merged_dataset1.csv                 # Cleaned and processed final dataset
+
+
+## Key Findings
+- Most countries fall in the low-to-medium recycling range
+- Largest producers: China (59.08 MT) and USA (42.02 MT)
+- Consumer packaging is the dominant waste source worldwide
+- Developed nations consistently show higher recycling rates
+
+## Analyses Performed
+
+- Top plastic waste-producing countries
+- Recycling rate distribution (histogram)
+- Correlation analysis between waste and recycling metrics
+- Coastal waste risk vs. recycling rate (box plot)
+- Development level comparisons (top 20 / bottom 20)
+- Interactive world map of plastic waste density
+- Plastic recycling efficiency ranking
+
+
+## Recommendations
+Global: Strengthen recycling infrastructure, promote waste reduction strategies, and scale circular economy models.
+For Turkey: Develop recycling-focused policy, run consumer awareness campaigns, improve coastal waste management, and incentivize plastic alternatives.
