@@ -23,6 +23,24 @@ Hi-Kod-Veri-Bilimi-Proje-Son/
 ├── README.md                           # Project documentation
 ├── merged_dataset.csv                  # Merged intermediate dataset
 └── merged_dataset1.csv                 # Cleaned and processed final dataset
+```
+
+## Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| Python | Core programming language |
+| Pandas | Data manipulation and analysis |
+| Matplotlib & Seaborn | Static visualizations |
+| Plotly | Interactive choropleth map |
+| NumPy | Numerical computations |
+| Jupyter Notebook | Development environment |
+
+
+## Dataset
+
+- **165 countries** covered
+- **6 key variables:** Total plastic waste (MT), main waste sources, recycling rate (%), per capita waste (kg), coastal waste risk, income level
 
 
 ## Key Findings
@@ -40,7 +58,6 @@ Hi-Kod-Veri-Bilimi-Proje-Son/
 - Development level comparisons (top 20 / bottom 20)
 - Interactive world map of plastic waste density
 - Plastic recycling efficiency ranking
-
 
 ## Recommendations
 Global: Strengthen recycling infrastructure, promote waste reduction strategies, and scale circular economy models.
